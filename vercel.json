@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "kiosk-ui": {
+      "source": "apps/kiosk-ui",
+      "framework": "nextjs"
+    },
+    "phone-ui": {
+      "source": "apps/phone-ui",
+      "framework": "nextjs"
+    }
+  }
+}
